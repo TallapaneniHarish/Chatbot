@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from dotenv import load_dotenv
-from groq import Groq  # Groq SDK
+from groq import Groq 
 
 load_dotenv()
 
